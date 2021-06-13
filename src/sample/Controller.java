@@ -5,7 +5,6 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
-import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
 public class Controller{
@@ -14,10 +13,7 @@ public class Controller{
     private TextField text1;
     @FXML
     private Label label1;
-    @FXML
-    private Button close;
-    @FXML
-    private AnchorPane ap;
+
     Stage stage;
     //custom close button
     @FXML
@@ -35,7 +31,7 @@ public class Controller{
     public void calmetre (){
         try {
             float num1 = Float.parseFloat(text1.getText());
-            label1.setText(String.valueOf(num1 * 1000 + " m"));
+            label1.setText(num1 * 1000 + " m");
         }
         catch(Exception e){
             text1.setText("Enter a Number");
@@ -46,7 +42,7 @@ public class Controller{
     public void calkm (){
         try {
             float num1 = Float.parseFloat(text1.getText());
-            label1.setText(String.valueOf(num1 / 1000 + " km"));
+            label1.setText(num1 / 1000 + " km");
         }
         catch(Exception e){
             text1.setText("Enter a Number");
@@ -57,7 +53,7 @@ public class Controller{
     public void calc (){
         try {
             float num1 = Float.parseFloat(text1.getText());
-            label1.setText(String.valueOf((num1-32)*5/9+" C"));
+            label1.setText((num1-32)*5/9+" C");
         }
         catch(Exception e){
             text1.setText("Enter a Number");
@@ -68,7 +64,7 @@ public class Controller{
     public void calf (){
         try {
             float num1 = Float.parseFloat(text1.getText());
-            label1.setText(String.valueOf((num1*9/5)+32+" F"));
+            label1.setText((num1*9/5)+32+" F");
         }
         catch(Exception e){
             text1.setText("Enter a Number");
@@ -79,7 +75,7 @@ public class Controller{
     public void calinr (){
         try {
             float num1 = Float.parseFloat(text1.getText());
-            label1.setText(String.valueOf(num1*0.37+" INR"));
+            label1.setText(num1*0.37+" INR");
         }
         catch(Exception e){
             text1.setText("Enter a Number");
