@@ -4,8 +4,14 @@ Converter Application for Windows using JavaFX
 
 # ⚙️ Used Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![made-with-java](https://img.shields.io/badge/Built%20with-Java-23ED8B00.svg)](https://www.java.com/en/)
+[![made-with-java](https://img.shields.io/badge/Built%20with-JavaFX-%23ED8B00.svg)](https://openjfx.io)
+
+For [![Windows](https://svgshare.com/i/ZhY.svg)](https://www.microsoft.com/en-us/windows?r=1)
+[![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-IntelliJ%20IDEA-1f425f.svg)](https://www.jetbrains.com/idea/)
+
+https://img.shields.io/badge/IntelliJ_IDEA-000000.svg
+http://jb.gg/badges/official.svg
 
 # 📺 ANNEXURES OF THE CONVERTER
 
