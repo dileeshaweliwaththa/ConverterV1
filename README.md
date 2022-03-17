@@ -14,8 +14,8 @@ Unit Converter Application for Windows using JavaFX
 ### ⚙️ Built With
 
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](https://www.java.com/en/)
-[![made-with-java](https://img.shields.io/badge/JavaFX-success.svg?style=plastic)](https://openjfx.io)
+[![Java](https://img.shields.io/badge/Java-JDK%2016.0.1-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](https://www.java.com/en/)
+[![made-with-java](https://img.shields.io/badge/JavaFX-SDK%2016-success.svg?style=plastic)](https://openjfx.io)
 
 [![made-with-sphinx-doc](https://img.shields.io/badge/For-Windows-green.svg?)](https://www.microsoft.com/en-us/windows/windows-11)
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20With-IntelliJ%20IDEA-1f425f.svg?)](https://www.jetbrains.com/idea/)
