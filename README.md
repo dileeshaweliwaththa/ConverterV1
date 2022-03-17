@@ -1,6 +1,7 @@
 # ⚡️ConverterV1⚡️
 
 [![made-with-java](https://img.shields.io/badge/JavaFX-%23ED8B00.svg)](https://openjfx.io)
+[![made-with-java](https://img.shields.io/badge/SceneBuilder-%23ED8B00.svg)](https://openjfx.io)
 
 Unit Converter Application for Windows using JavaFX
 
