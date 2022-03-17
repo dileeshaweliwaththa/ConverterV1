@@ -2,18 +2,25 @@
 
 [![made-with-java](https://img.shields.io/badge/JavaFX-%23ED8B00.svg)](https://openjfx.io)
 
-Converter Application for Windows using JavaFX
+Unit Converter Application for Windows using JavaFX
 
-### ⚙️ Languages Used
-[![made-with-java](https://img.shields.io/badge/Built%20with-CSS-23ED8B00.svg)](https://www.java.com/en/)
-[![made-with-java](https://img.shields.io/badge/Java-%23ED8B00.svg)](https://openjfx.io)
+**Capable of Converting** 
+- [x] Metres - KiloMetres
+- [x] Celcius - Farenhite
+- [x] LKR - INR
+- [x] Volume
 
-### ⚙️ Tools Used
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://www.microsoft.com/en-us/windows?r=1)
-[![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-IntelliJ%20IDEA-1f425f.svg)](https://www.jetbrains.com/idea/)
+### ⚙️ Built With
+
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](https://www.java.com/en/)
+[![made-with-java](https://img.shields.io/badge/JavaFX-success.svg?style=plastic)](https://openjfx.io)
+
+[![made-with-sphinx-doc](https://img.shields.io/badge/For-Windows-green.svg?)](https://www.microsoft.com/en-us/windows/windows-11)
+[![made-with-sphinx-doc](https://img.shields.io/badge/Made%20With-IntelliJ%20IDEA-1f425f.svg?)](https://www.jetbrains.com/idea/)
 
 
-# 📺 ANNEXURES OF THE CONVERTER
+# 📺 Snaps of ConverterV1
 
 ### 1. INTERFACE
 ![image](https://user-images.githubusercontent.com/64683688/158644649-b7bacd09-4a18-4f7d-ae5a-c1b125a6117c.png)
